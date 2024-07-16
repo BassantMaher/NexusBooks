@@ -36,17 +36,18 @@ To get started with NexusBooks, follow these steps:
    ```bash
    git clone https://github.com/BassantMaher/NexusBooks.git
 
-  git clone https://github.com/BassantMaher/NexusBooks.git
 2. Navigate to the project directory:
-
     ```bash
     cd NexusBooks
+
 3. Install dependencies:
     ```bash
     npm install
+
 4. Run the application:
     ```bash
         npm start
+        
 ## Usage
 Once the application is running, you can access it at http://localhost:3000. From there, you can explore the features and manage your book collection.
 
