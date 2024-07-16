@@ -47,7 +47,6 @@ To get started with NexusBooks, follow these steps:
 4. Run the application:
     ```bash
         npm start
-        
 ## Usage
 Once the application is running, you can access it at http://localhost:3000. From there, you can explore the features and manage your book collection.
 
